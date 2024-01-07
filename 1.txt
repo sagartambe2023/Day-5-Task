@@ -1,0 +1,28 @@
+const resume = {
+    "name": "Sagar Tambe",
+    "age": 30,
+    "contact": {
+      "email": "sagar.tambe2023@gmail.com",
+      "phone": "8975910317"
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "school": "University of Pune",
+        "year": 2015
+      }
+    ],
+    "experience": [
+      {
+        "position": "Software Engineer",
+        "company": "Mphasis ltd",
+        "year": 2017
+      },
+      {
+        "position": "Senior Software Engineer",
+        "company": "Microsoft Corp",
+        "year": 2020
+      }
+    ],
+    "skills": ["Java", "JavaScript", "Python", "HTML", "CSS", "React", "Node.js"]
+  };
